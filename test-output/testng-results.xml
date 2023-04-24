@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="575" started-at="2023-04-20T22:41:37Z" finished-at="2023-04-20T22:41:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="575" started-at="2023-04-20T22:41:37Z" finished-at="2023-04-20T22:41:38Z">
+      <class name="com.orgtest.ExcelDataTest1">
+        <test-method status="PASS" signature="excel()[pri:0, instance:com.orgtest.ExcelDataTest1@4b9e13df]" name="excel" duration-ms="559" started-at="2023-04-20T15:41:37Z" finished-at="2023-04-20T15:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel -->
+      </class> <!-- com.orgtest.ExcelDataTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

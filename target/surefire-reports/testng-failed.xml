@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="com.grp.TargetTestng">
+        <methods>
+          <include name="target"/>
+        </methods>
+      </class> <!-- com.grp.TargetTestng -->
+      <class name="com.grp.OrangeHRMTestng">
+        <methods>
+          <include name="Orange"/>
+        </methods>
+      </class> <!-- com.grp.OrangeHRMTestng -->
+      <class name="com.grp.AmazonTestng">
+        <methods>
+          <include name="amazon"/>
+        </methods>
+      </class> <!-- com.grp.AmazonTestng -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
